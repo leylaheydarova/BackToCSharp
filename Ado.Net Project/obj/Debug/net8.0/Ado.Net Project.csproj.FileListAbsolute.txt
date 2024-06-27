@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\Ado.Net Project.exe
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\Ado.Net Project.deps.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\Ado.Net Project.runtimeconfig.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\Ado.Net Project.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\Ado.Net Project.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.sourcelink.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net .F35379E9.Up2Date
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\refint\Ado.Net Project.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\Ado.Net Project.genruntimeconfig.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\Back To CSharp\Ado.Net Project\Ado.Net Project\obj\Debug\net8.0\ref\Ado.Net Project.dll
