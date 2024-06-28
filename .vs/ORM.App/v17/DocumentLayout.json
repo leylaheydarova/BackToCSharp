@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\back to csharp\\orm.app\\orm.app\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|solutionrelative:orm.app\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\back to csharp\\orm.app\\orm.app\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|solutionrelative:orm.app\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\back to csharp\\orm.app\\orm.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|solutionrelative:orm.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\back to csharp\\orm.app\\orm.app\\practicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6ED597-D08D-47CF-8FA6-F379D3A79853}|ORM.App\\ORM.App.csproj|solutionrelative:orm.app\\practicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ORM.App\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\Entities\\Product.cs",
+              "RelativeToolTip": "ORM.App\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:05:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ORM.App\\context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\context\\AppDbContext.cs",
+              "RelativeToolTip": "ORM.App\\context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:02:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PracticesContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\PracticesContext.cs",
+              "RelativeDocumentMoniker": "ORM.App\\PracticesContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\PracticesContext.cs",
+              "RelativeToolTip": "ORM.App\\PracticesContext.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:38:13.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\Program.cs",
+              "RelativeDocumentMoniker": "ORM.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\Back To CSharp\\ORM.App\\ORM.App\\Program.cs",
+              "RelativeToolTip": "ORM.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:17:48.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
