@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Migrations\\20240701124412_subcategoryref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MixPractices.App\\Migrations\\20240701124412_subcategoryref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95643B39-1CFD-4720-AF80-128941581910}|MixPractices.App\\MixPractices.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\codefirstlogic\\mixpractices.app\\mixpractices.app\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95643B39-1CFD-4720-AF80-128941581910}|MixPractices.App\\MixPractices.App.csproj|solutionrelative:mixpractices.app\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95643B39-1CFD-4720-AF80-128941581910}|MixPractices.App\\MixPractices.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\codefirstlogic\\mixpractices.app\\mixpractices.app\\entities\\onetomany\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95643B39-1CFD-4720-AF80-128941581910}|MixPractices.App\\MixPractices.App.csproj|solutionrelative:mixpractices.app\\entities\\onetomany\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95643B39-1CFD-4720-AF80-128941581910}|MixPractices.App\\MixPractices.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\codefirstlogic\\mixpractices.app\\mixpractices.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95643B39-1CFD-4720-AF80-128941581910}|MixPractices.App\\MixPractices.App.csproj|solutionrelative:mixpractices.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240701124412_subcategoryref.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Migrations\\20240701124412_subcategoryref.cs",
+              "RelativeDocumentMoniker": "MixPractices.App\\Migrations\\20240701124412_subcategoryref.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Migrations\\20240701124412_subcategoryref.cs",
+              "RelativeToolTip": "MixPractices.App\\Migrations\\20240701124412_subcategoryref.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:44:12.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MixPractices.App\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "MixPractices.App\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA6wBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:39:41.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Entities\\OneToMany\\Product.cs",
+              "RelativeDocumentMoniker": "MixPractices.App\\Entities\\OneToMany\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Entities\\OneToMany\\Product.cs",
+              "RelativeToolTip": "MixPractices.App\\Entities\\OneToMany\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:38:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Program.cs",
+              "RelativeDocumentMoniker": "MixPractices.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CodeFirstLogic\\MixPractices.App\\MixPractices.App\\Program.cs",
+              "RelativeToolTip": "MixPractices.App\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAArwDsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:34:02.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
